@@ -10,4 +10,4 @@ do
 	n=$(($n/10))
 done
 echo "sum of two numbers is $sum"
-
+echo "testing build in Jenkins first time"
