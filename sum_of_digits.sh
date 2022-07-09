@@ -9,5 +9,5 @@ do
 	sum=$(($sum+$rem))
 	n=$(($n/10))
 done
-echo $sum
+echo "sum of two numbers is $sum"
 
